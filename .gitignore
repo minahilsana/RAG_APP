@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+data/
+raw_pdfs/
+texts/
+env/
+.venv/
+.env
